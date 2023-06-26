@@ -1,1 +1,1 @@
-# Machine-Learning
+This repository contains the code for detecting the fake news.It uses the fake news dataset from Kaggle.The dataset contains 20800 rows and 5 columns.The latter contains features such as Id,Title,Author,Text,Label.The data is processed using Stemming and is used for prediction using Passive Aggressive Classifier.The predictions have an accuracy of 99%.
